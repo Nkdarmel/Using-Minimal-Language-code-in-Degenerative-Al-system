@@ -1,7 +1,5 @@
 # Using-Minimal-Language-code-in-Degenerative-Al-system
 
-# Using Minimal Language Code in Degenerative AI Systems
-
 A minimal Python module project for exploring lightweight language-code experiments in degenerative AI system workflows.
 
 ## Quick start
