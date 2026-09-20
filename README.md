@@ -6,6 +6,19 @@ A minimal Python module project for exploring lightweight language-code experime
 [![GitHub stars](https://img.shields.io/github/stars/Nkdarmel/Using-Minimal-Language-code-in-Degenerative-Al-system?style=social)](https://github.com/Nkdarmel/Using-Minimal-Language-code-in-Degenerative-Al-system/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/Nkdarmel/Using-Minimal-Language-code-in-Degenerative-Al-system?style=social)](https://github.com/Nkdarmel/Using-Minimal-Language-code-in-Degenerative-Al-system/network/members)
 
+<p align="center">
+  <img alt="Repository Achievement" src="https://img.shields.io/badge/Repository%20Achievement-Research%20Simulation%20Ready-0A7EA4?style=for-the-badge&logo=github" />
+</p>
+
+The project modele is inspired by FAIR research practices and focuses on **feasibility, accessibility, interoperability, and reproducibility** rather than claiming a platform-issued GitHub achievement.
+
+<p align="center">
+  <a href="#feasible"><img alt="Feasible" src="https://img.shields.io/badge/Feasible-research%20prototype-2E7D32?style=flat-square" /></a>
+  <a href="#accessible"><img alt="Accessible" src="https://img.shields.io/badge/Accessible-documented-1565C0?style=flat-square" /></a>
+  <a href="#interoperable"><img alt="Interoperable" src="https://img.shields.io/badge/Interoperable-Python%20workflow-6A1B9A?style=flat-square" /></a>
+  <a href="#reproducible"><img alt="Reproducible" src="https://img.shields.io/badge/Reproducible-versioned%20workflow-E65100?style=flat-square" /></a>
+</p>
+
 ## About
 
 Using lightweight language and Machine Learning-code experiments in degenerative AI system workflows
@@ -14,6 +27,8 @@ Using lightweight language and Machine Learning-code experiments in degenerative
 - Lightweight Language Code Experiments
 - Degenerative AI System Workflows
 - Minimal Python Module Project
+
+## Featuring 
 
 ## Feasibility
 The project is designed to be lightweight and modular, making it feasible for researchers and developers to explore minimal-language patterns in degenerative AI workflows. The use of Python as the primary language ensures broad compatibility across different platforms [1].
